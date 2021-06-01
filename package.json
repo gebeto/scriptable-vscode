@@ -3,7 +3,7 @@
 	"publisher": "gebeto",
 	"displayName": "Scriptable",
 	"description": "Scriptable App Integration extension",
-	"version": "0.0.10",
+	"version": "0.0.11",
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
