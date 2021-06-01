@@ -15,11 +15,16 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:scriptable.importScript"
+		"onCommand:scriptable.importScript",
+		"onCommand:scriptable.initialize"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
+			{
+				"command": "scriptable.initialize",
+				"title": "Scriptable: Initialize sources"
+			},
 			{
 				"command": "scriptable.importScript",
 				"title": "Scriptable: Import Script"
