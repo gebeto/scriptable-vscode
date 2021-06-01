@@ -1,6 +1,5 @@
-# scriptable-vscode
+# scriptable-vscode (Work In Progress)
 
-This is the README for your extension "scriptable-vscode". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
@@ -11,7 +10,6 @@ This is the README for your extension "scriptable-vscode". After writing up a br
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
 
 ### 0.0.3
 
