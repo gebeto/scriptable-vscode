@@ -19,3 +19,8 @@
 
  - Added command for initialization `sources` link.
  - Added command for syncing Scriptable script.
+
+
+### 0.0.11
+
+ - Added icon

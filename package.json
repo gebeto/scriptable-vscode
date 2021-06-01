@@ -4,6 +4,7 @@
 	"displayName": "Scriptable",
 	"description": "Scriptable App Integration extension",
 	"version": "0.0.10",
+	"icon": "icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/gebeto/scriptable-vscode"
