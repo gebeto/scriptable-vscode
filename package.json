@@ -3,7 +3,7 @@
 	"publisher": "gebeto",
 	"displayName": "VSCode Scriptable",
 	"description": "Scriptable App Integration extension",
-	"version": "0.1.0",
+	"version": "0.0.5",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/gebeto/scriptable-vscode"
