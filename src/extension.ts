@@ -7,7 +7,7 @@ import * as glob from 'glob';
 
 
 const USER: string = process.env["USER"]!;
-const SCRIPTABLE_PATH = `/Users/${USER}/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents`
+const SCRIPTABLE_PATH = `/Users/${USER}/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents`;
 
 const getCurrentWorkspacePath = () => vscode.workspace.workspaceFolders![0].uri.path;
 
