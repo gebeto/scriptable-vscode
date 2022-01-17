@@ -4,7 +4,7 @@
 	"displayName": "Scriptable",
 	"description": "Scriptable App Integration extension",
 	"license": "MIT",
-	"version": "0.0.15",
+	"version": "0.0.16",
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
