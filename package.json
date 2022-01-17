@@ -40,8 +40,7 @@
 		"lint": "eslint src --ext ts",
 		"test": "node ./out/test/runTest.js",
 		"build": "vsce package",
-		"publish": "vsce publish",
-		"vpub": "yarn version --patch && yarn build && yarn publish"
+		"vpub": "yarn version --patch && yarn build && vsce publish"
 	},
 	"devDependencies": {
 		"@types/glob": "^7.2.0",
