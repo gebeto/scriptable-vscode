@@ -3,6 +3,7 @@
 	"publisher": "gebeto",
 	"displayName": "Scriptable",
 	"description": "Scriptable App Integration extension",
+	"license": "MIT",
 	"version": "0.0.15",
 	"icon": "icon.png",
 	"repository": {
